@@ -1,6 +1,6 @@
 # ROB RUN — statystyki
 
-Statyczna strona z danymi o broni, pojazdach, loocie i cyklu wipe.
+Statyczna strona z danymi o broni, pojazdach, loocie, itemami i cyklu wipe.
 
 ## Uruchomienie lokalne
 
